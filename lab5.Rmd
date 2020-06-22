@@ -259,7 +259,7 @@ player's salary for that season in the resulting table.
 #### Task 10
 
 Use the `JOIN` option to merge "Salaries" and "Teams" tables by 
-matching `yearID`, `playerID`, and `teamID`. Find the 10 highest salaries by 
+matching `yearID` and `teamID`. Find the 10 highest salaries by 
 team in 2016.
 
 ```{r task_10}
